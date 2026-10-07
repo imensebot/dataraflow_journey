@@ -12,6 +12,12 @@ Python fundamentals — variables, conditionals, loops, functions, string manipu
 - 📓 [Notebook](Week_1_Take_Home.ipynb)
 - ✍️ [Medium reflection: My First Week of DataraFlow — Public Health Meets Python](https://medium.com/@imensetitus.int/my-first-week-of-dataraflow-public-health-meets-python-dd5a6d1bf240)
 
+### Week 2
+Object-oriented programming — classes, inheritance, polymorphism, scope, and iterators, including a library management system project.
+
+- 📓 [Notebook](Week2/Week_2_Take_Home.ipynb)
+- 📝 [Medium reflection: The Week the Pieces Connected](https://medium.com/@imensetitus.int/the-week-the-pieces-connected-1ba774dc1bcb)
+
 ## Connect
 
 - [Medium](https://medium.com/@imensetitus.int)
